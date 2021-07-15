@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/estar.png</file>
+        <file>Recursos/salida.png</file>
+        <file>Recursos/supermercado.png</file>
+    </qresource>
+</RCC>
